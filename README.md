@@ -6,5 +6,5 @@ Raw Image .tif file that is the input to the script:
 
 Zoomed in raw image vs the processed image:
 
-<img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Raw_Well_Image.png" height="400"/> <img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Processed_Well_Image.png" height="500"/> 
+<img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Raw_Well_Image.png" height="400"/> <img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Processed_Well_Image.png" height="400"/> 
 
