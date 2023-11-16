@@ -5,5 +5,5 @@ Raw Image .tif file that is the input to the script:
 ![Raw Slide Image](https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Whole_Slide.png)
 
 Zoomed in raw image of one of the microarray:  Output image of a processed well:
-<img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Raw_Well_Image.png" width="100"/> <img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Processed_Well_Image.png" width="100"/> 
+<img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Raw_Well_Image.png" height="300"/> <img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Processed_Well_Image.png" heigth="300"/> 
 
