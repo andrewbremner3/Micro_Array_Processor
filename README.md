@@ -1,2 +1,2 @@
 # Micro Array Processor
-Take input of a raw .tif image file from a slide scanner with 21 microarrays and process them to output the intesities of the features using an input map and ID key to sort and average replicate features
+Streamlit App that take the input of a raw .tif image file from a slide scanner with 21 microarrays and processes them to output the intesities of the features using an input map and ID key to sort and average replicate features
