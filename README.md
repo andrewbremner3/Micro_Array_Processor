@@ -4,6 +4,7 @@ Streamlit App that take the input of a raw .tif image file from a slide scanner 
 Raw Image .tif file that is the input to the script:       
 ![Raw Slide Image](https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Whole_Slide.png)
 
-Zoomed in raw image of one of the microarray:  Output image of a processed well:
-<img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Raw_Well_Image.png" height="300"/> <img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Processed_Well_Image.png" heigth="300"/> 
+Zoomed in raw image vs the processed image:
+
+<img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Raw_Well_Image.png" height="400"/> <img src="https://github.com/andrewbremner3/MicroArrayProcessor/blob/main/ReadMeImages/Processed_Well_Image.png" height="500"/> 
 
