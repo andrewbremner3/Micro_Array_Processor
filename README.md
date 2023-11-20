@@ -1,9 +1,7 @@
 # Micro Array Processor
 Streamlit App that take the input of a raw .tif image file from a slide scanner with 21 microarrays and processes them to output the intesities of the features using an input map and ID key to sort and average replicate features.
 
-Raw Image .tif file that is the input to the script:       
-
-Zoomed in raw image vs the processed image:
+Below are example imaged of the raw .tif image file from the slide scanner, then one zoomed in well to show the mocro array and fianllay the processed microarray with the featured circles and picked out.
 <table>
     <tr>
     <td style="text-align:center">Whole slide</td>
@@ -22,3 +20,6 @@ Zoomed in raw image vs the processed image:
     </td>
   </tr>
 </table>
+
+## App Overview
+The app can be run from the command line with "streamlit run MicroArrayProcessor_StreamlitApp.py" which then open in a browser.
